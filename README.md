@@ -6,6 +6,9 @@ The ultimate iPhone lookup app that helps you find the perfect iPhone for your n
 | ![App screenshot](Resources/Screenshot-Light1.png) | ![App screenshot](Resources/Screenshot-Light3.png) | ![App screenshot](Resources/Screenshot-Light4.png) 
 --- | --- | ---
 
+| ![App screenshot](Resources/Screenshot-Dark1.png) | ![App screenshot](Resources/Screenshot-Dark3.png) | ![App screenshot](Resources/Screenshot-Dark4.png) 
+--- | --- | ---
+
 
 ### Demo video 
 
