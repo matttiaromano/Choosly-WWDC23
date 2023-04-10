@@ -3,7 +3,7 @@
 The ultimate iPhone lookup app that helps you find the perfect iPhone for your needs and preferences. Created as a submission to the 2023 Apple Swift Student Challenge by Mattia Romano in April 2023.
 
 
-| (Resources/Screenshot-Light1.png) | (Resources/Screenshot-Light2.png) |
+| [] (Resources/Screenshot-Light1.png) | [] (Resources/Screenshot-Light2.png) |
 
 
 ### Demo video 
