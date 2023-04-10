@@ -8,7 +8,8 @@ The ultimate iPhone lookup app that helps you find the perfect iPhone for your n
 
 
 ### Demo video 
-soon...
+---
+Coming soon...
 
 ---
 All further development will take place in this [repository](https://github.com/matttiaromano/Choosly-WWDC23).
