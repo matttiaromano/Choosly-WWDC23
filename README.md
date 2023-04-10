@@ -8,7 +8,7 @@ The ultimate iPhone lookup app that helps you find the perfect iPhone for your n
 
 
 ### Demo video 
----
+
 Coming soon...
 
 ---
