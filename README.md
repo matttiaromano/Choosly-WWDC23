@@ -1,4 +1,4 @@
-#Choosly - WWDC23 Swift Student Challenge Submission
+# Choosly - WWDC23 Swift Student Challenge Submission
 
 The ultimate iPhone lookup app that helps you find the perfect iPhone for your needs and preferences. Created as a submission to the 2023 Apple Swift Student Challenge by Mattia Romano in April 2023.
 
