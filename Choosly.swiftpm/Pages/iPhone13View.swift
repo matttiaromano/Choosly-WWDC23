@@ -64,6 +64,7 @@ struct iPhone13View: View {
                                 .multilineTextAlignment(.center)
                                 .foregroundStyle(LinearGradient(colors: [.orange, .red], startPoint: .topLeading, endPoint: .bottomTrailing))
                         
+                            
                         VStack {
                             
                             Text ("And")
@@ -83,7 +84,7 @@ struct iPhone13View: View {
                         .padding()
                     
                     VStack{
-                        Text("The iPhone 13 Mini is the perfect choice for those who prefer a **compact and lightweight** smartphone. Even with its small size, **the powerful A15 Bionic chip** provides **smooth performance** and **fast processing speed**. **The 📷 camera system** has been upgraded, with improved **low-light performance**, advanced features like 🌒 **Night Mode** and **Cinematic Mode**. The 🔋 **battery life** has also been **improved**,  with a battery life **up to 1.5 hours longer** than the previous model (iPhone 12 Mini). Additionally, the iPhone 13 Mini is 🌊 **water-resistant** and comes in a range of **stunning colors**. The iPhone 13 Mini starts at 💵 **$599**.")
+                        Text("The **iPhone 13 Mini** is the perfect choice for those who prefer a **compact and lightweight** smartphone. Even with its small size, **the powerful A15 Bionic chip** provides **smooth performance** and **fast processing speed**. **The 📷 camera system** has been upgraded, with improved **low-light performance**, advanced features like 🌒 **Night Mode** and **Cinematic Mode**. The 🔋 **battery life** has also been **improved**,  with a battery life **up to 1.5 hours longer** than the previous model (iPhone 12 Mini). Additionally, the **iPhone 13 Mini** is 🌊 **water-resistant** and comes in a range of **stunning colors**. The **iPhone 13 Mini** starts at 💵 **$599**.")
                             .multilineTextAlignment(.center)
                     }
                     
@@ -98,7 +99,7 @@ struct iPhone13View: View {
                             .fontWeight(.semibold)
                             .multilineTextAlignment(.center)
                         
-                            Text("Go back!")
+                            Text("Go back")
                                 .padding()
                                 .padding(.horizontal, 50)
                                 .multilineTextAlignment(.center)

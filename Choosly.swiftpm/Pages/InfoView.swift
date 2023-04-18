@@ -28,7 +28,7 @@ struct InfoView: View {
                         .multilineTextAlignment(.center)
                         .padding (.bottom, 2)
                     
-                    Text("I am an Italian High School Student with a passion for computer science and coding. I try to create simple but mostly functional products that can be used by anyone, without distinctions 🌈")
+                    Text("I am an Italian High School Student with the passion for computer science and coding. I try to create simple but very functional products that can be used by anyone, without distinctions 🌈")
                     .multilineTextAlignment(.center)}
                 
                 Divider()
@@ -52,7 +52,7 @@ struct InfoView: View {
                         .multilineTextAlignment(.center)
                         .padding (.bottom, 2)
                     
-                    Text("The goal of this app is help people to find the perfect iPhone 📱 for them, taking into consideration their various necessities . This app was created by Mattia Romano for the Apple WWDC23 Swift Student Challenge in April 2023 🧑🏻‍💻. It was entirely programmed with Xcode in the Swift programming language. This year's WWDC is near ⌚️, and I'm sure there will be some exciting new features")
+                    Text("The goal of this app is help people to find the perfect iPhone 📱 for them, taking into consideration their various necessities. This app was created by Mattia Romano for the Apple WWDC23 Swift Student Challenge 🧑🏻‍💻. It was entirely programmed with Xcode in the Swift programming language. This year's WWDC is near ⌚️, and I'm sure there will be some exciting new features")
                         .multilineTextAlignment(.center)
                         .padding(.bottom, 7)
                     
@@ -63,7 +63,7 @@ struct InfoView: View {
                         .multilineTextAlignment(.center)
                         .padding(.bottom, 7)}
                     
-                    Text("Go Ahead!")
+                    Text("Go ahead")
                         .padding()
                         .foregroundColor(.white)
                         .background(Color .accentColor)

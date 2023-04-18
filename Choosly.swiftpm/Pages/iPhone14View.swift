@@ -85,7 +85,7 @@ struct iPhone14View: View {
                             .padding()
                         
                         VStack{
-                            Text("Apple launched the **iPhone 14** and **iPhone 14 Plus** in September 2022, two models that feature **significant improvements** in 📷 camera technology and 💥 safety capabilities. Both models are 🌊 **IP68** rated for water and dust resistance and have an aluminum design and Ceramic Shield front glass. They feature a dual-camera system that includes **Optical Image Stabilization**, with the all new 🏃‍♂️ **Action Mode**, 🌒 Night Mode, and Dolby Vision HDR video recording. The **iPhone 14** has a 📱 **6.1-inch** display, while the **iPhone 14 Plus** has a larger **6.7-inch** screen and 🔋 **longer battery life**. Both models have 📡 **5G** support. **iPhone 14** starts at 💵 **$799** while **iPhone 14 Plus** starts at 💵 **$899**. The new yellow joins the iPhone 14 lineup, and both models will be available in six colors, including midnight, starlight, (PRODUCT)RED, blue, purple, and yellow.")
+                            Text("Apple launched the **iPhone 14** and **iPhone 14 Plus** in September 2022, two models that feature **significant improvements** in 📷 **camera technology** and 💥 **safety capabilities**. Both models are 🌊 **IP68** rated for water and dust resistance and have an aluminum design and Ceramic Shield front glass. They feature a dual-camera system that includes **Optical Image Stabilization**, with the all new 🏃‍♂️ **Action Mode**, 🌒 **Night Mode**, and Dolby Vision HDR video recording. The **iPhone 14** has a 📱 **6.1-inch** display, while the **iPhone 14 Plus** has a larger 📱 **6.7-inch** screen and 🔋 **longer battery life**. Both models have 📡 **5G support**. **iPhone 14** starts at 💵 **$799** while **iPhone 14 Plus** starts at 💵 **$899**. The new yellow joined the **iPhone 14** lineup, and both models are available in **six colors**, including midnight, starlight, (PRODUCT)RED, blue, purple, and yellow.")
                                 .multilineTextAlignment(.center)
                         }
                         
@@ -100,7 +100,7 @@ struct iPhone14View: View {
                                 .multilineTextAlignment(.center)
                             
 
-                                Text("Go back!")
+                                Text("Go back")
                                     .padding()
                                     .padding(.horizontal, 50)
                                     .multilineTextAlignment(.center)

@@ -130,7 +130,7 @@ struct iPhone14ProView: View {
                                 .multilineTextAlignment(.center)
                             
 
-                                Text("Go back!")
+                                Text("Go back")
                                     .padding()
                                     .padding(.horizontal, 50)
                                     .multilineTextAlignment(.center)

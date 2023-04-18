@@ -39,7 +39,7 @@ struct iPhoneSEView: View {
                         .foregroundColor(.secondary)
                         .padding(.bottom, 5)
                         
-                    Text("A powerful smartphone in an iconic design")
+                    Text("A powerful iPhone in an iconic design")
                             .font(.title)
                             .fontWeight(.semibold)
                             .multilineTextAlignment(.center)
@@ -83,7 +83,7 @@ struct iPhoneSEView: View {
                         .padding()
                     
                     VStack{
-                        Text("The **iPhone SE** (third generation) is an **affordable option** for who want an iPhone without 💸 spending too much. It is powered by the powerful **A15 Bionic chip** also seen in the iPhone 13, which offers **best-in-class performance**, and also 📡 **5G** connectivity. The phone has an 📷 **improved camera** with features such as  🌇 **Smart HDR 4** and **Deep Fusion** for **amazing photos**. A unique feature of the iPhone SE is its **smaller form factor**, which might appeal to users who prefer a more compact phone with a **physical home button** and **Touch ID**, instead of the new FaceID. However, the phone's 📱 display is smaller and has large frames; it also does **not support** 5G mmWave or 🌒 Night Mode for the camera. The **iPhone SE** (third generation) starts at 💵 $429.")
+                        Text("The **iPhone SE** (3rd generation) is an **affordable option** for who want an iPhone without 💸 spending too much. It is powered by the powerful **A15 Bionic chip** also seen in the iPhone 13, which offers **best-in-class performance**, and also 📡 **5G connectivity**. The phone has an 📷 **improved camera** with features such as  🌇 **Smart HDR 4** and **Deep Fusion** for **amazing photos**. A unique feature of the **iPhone SE** is its **smaller form factor**, which might appeal to users who prefer a more compact phone with a **physical home button** and **Touch ID**, instead of the new FaceID. However, the phone's 📱 display is smaller and has large frames; it also does **not support** 5G mmWave or 🌒 Night Mode for the camera. The **iPhone SE** (3rd generation) starts at 💵 $429.")
                             .multilineTextAlignment(.center)
                     }
                     
@@ -97,7 +97,7 @@ struct iPhoneSEView: View {
                             .fontWeight(.semibold)
                             .multilineTextAlignment(.center)
                         
-                        Text("Go back!")
+                        Text("Go back")
                             .padding()
                             .padding(.horizontal, 50)
                             .multilineTextAlignment(.center)
